@@ -10,9 +10,9 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-(No need to change anything in the default options, just click on the Create codespace button and wait for it to boot)
+Set up code environment first. Clone repo. Download dependencies.
 
-Great! Looks like your codespace is up and running. You can now run docker-compose up in your codespace's terminal to load Anythink's backend and frontend.
+Run docker-compose up in your codespace's terminal to load Anythink's backend and frontend.
 
 Once docker-compose finishes loading up, the backend should be running and able to connect to the database.
 
